@@ -11,6 +11,9 @@ An open source project for constructing educator-focused CCR tools that inspire 
 ## Website 
 
 Our website detailing our mission and product: [ThinkerSol](https://sites.google.com/uw.edu/thinkersol/home?authuser=1)
+## Figma
+
+The Figma found here: [Figma | ThinkerSol](https://www.figma.com/@thinkersol) lays out a prototype of the application under "MVP"
 ## Founding Team
 
 - [@Safwaan Taher](https://www.github.com/safwaant)
