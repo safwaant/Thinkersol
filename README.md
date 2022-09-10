@@ -1,15 +1,16 @@
 
-![Logo](logo.jpg)
+![Logo](logo.png)
 
 [![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)](https://opensource.org/licenses/)
 
 
 # ThinkerSol
 
-Description about what thinkersol is
+An open source project for constructing educator-focused CCR tools that inspire greatness, inside and outside of the classroom.
+
 ## Website 
 
-Our website detailing our mission and product: [ThinkerSol](https://www.thinkersol.com)
+Our website detailing our mission and product: [ThinkerSol](https://sites.google.com/uw.edu/thinkersol/home?authuser=1)
 ## Founding Team
 
 - [@Safwaan Taher](https://www.github.com/safwaant)
@@ -19,12 +20,26 @@ Our website detailing our mission and product: [ThinkerSol](https://www.thinkers
 - [@Yeshwanth Darekar](https://github.com/Tbox7)
 
 ## Features
+- ThinkerSol has 3 main "flows" 
 
-- Light/dark mode toggle
-- Live previews
-- Fullscreen mode
-- Cross platform
+    1. The Admin flow
+    2. The Student flow
+    3. The Parent flow
 
+- Below are details about core features for each flow
+### Admin Features
+* Easily create & save tasks for students of default and custom groups, template career guides/notes for students of default and custom groups, and template tasks for students of default and custom groups. 
+* View and filter student data down to only the necessary parameters 
+* Create custom groups for students based off any variable you choose. Manage your default student groups for outlier students
+* Toggle between plans to understand student usage and levels of career interest
+* Easily understand where all students are at in the career planning process
+### Student Features 
+* Search classes, institutions and careers. Data is pulled from BLS ONET databases
+* Create up to five 4-year comprehensive plans detailing classes taken per grade, subject requirements, colleges, and career direction
+* Be a part of a custom group, recieving announcements and important info sent to the group
+### Parent Features
+* Monitor student progress on each plan with detailed reports
+* View updates for student plans and career, keeping in sync with student career planning
 
 ## Run Locally
 
@@ -106,9 +121,9 @@ You now have the frontend hosted locally!
 
 ## Acknowledgements 
 
-The following are contributors who were not founders, but had a significant part in the development process
+The following are contributors were not founders, but held a significant part in the development process
 
- - 
- - 
-
+ - [Shakeel Khan](https://king-shak.github.io/)
+ - [Mustafa Asadullah](https://github.com/mustafaasadullah)
+ - [Ashley Mead](https://github.com/concodeia)
 
