@@ -1,0 +1,9 @@
+ID (PK),student_id (FK),college_name (FK),soc_code (FK),plan_num,num_courses,career_status,education_status,courses_status,resume_status,plan_status_id (FK),resume_id (FK),register_courses
+1,8766,151251,1,3,T,T,T,T,C,1,T
+2,8766,151251,2,3,T,T,F,F,PR,2,F
+3,8763,172112,1,3,T,T,T,F,IP,4,T
+4,8761,231011,1,3,T,F,F,F,IP,5,T
+5,8760,272011,1,3,F,F,F,T,IP,6,T
+6,8762,291021,1,3,F,F,T,T,IP,7,T
+7,8764,19021,1,3,T,T,T,F,IP,8,T
+8,8765,472031,1,3,F,F,T,F,IC,9,T

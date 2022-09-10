@@ -1,0 +1,9 @@
+ID (PK),resume_id (FK),plan_id (FK),name,description,date_from,date_to,type_id (FK)
+1,1,1,Cook,chipotle cook for high school job,6/28/2022,,F
+2,2,2,Lawn Mower,mowed lawns for neighborhood,5/28/2022,6/26/2022,P
+3,3,3,Babysitter,Babysit for local kids,3/24/2022,,P
+4,4,4,Retail,Worked at local shoe store,1/22/2022,,P
+5,5,5,Receptionist,Receptionist for doctor office,7/14/2021,,F
+6,6,6,Lab intern,Biology lab high school intern,07/04/2021,8/22/2021,I
+7,7,7,Cook,Mcdonalds,4/21/2022,,P
+8,8,8,Clerk,Best buy salesperson,2/12/2022,,P

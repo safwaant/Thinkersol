@@ -1,0 +1,25 @@
+credits_to_grade_id(PK),subject(FK),grade(FK),grade_credits
+1,English,9,1
+2,English,10,1
+3,English,11,1
+4,English,12,1
+5,Math,9,1
+6,Math,10,1
+7,Math,11,1
+8,Math,12,1
+9,Science,9,1
+10,Science,10,1
+11,Science,11,1
+12,CTE,,1
+13,CTE,,1
+14,CTE,,1
+15,CTE,,1
+16,History,9,1
+17,History,10,1
+18,History,11,1
+19,Physical Education,,1
+20,Physical Education,,1
+21,Elective,,1
+22,Elective,,1
+23,Foreign Language,,1
+24,Foreign Language,,1

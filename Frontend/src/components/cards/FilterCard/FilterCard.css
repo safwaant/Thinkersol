@@ -1,0 +1,33 @@
+.filter-card-header {
+    color: white;
+    margin-left: 2vw;
+    margin-top: 0vh;
+    margin-bottom: 0.9vh;
+}
+
+.filter-card-content-wrapper {
+    display: flex;
+    flex-direction: column;
+}
+
+.filter-card-content-row {
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.filter-card-span {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
+
+.filter-card-content-col {
+    display: flex;
+}
+
+.filter-card-content-col:last-of-type {
+    flex-grow: 1;
+    margin-top: auto;
+    justify-content: right;
+    align-items: baseline;
+}

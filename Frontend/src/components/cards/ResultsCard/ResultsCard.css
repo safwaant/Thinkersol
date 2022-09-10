@@ -1,0 +1,19 @@
+.span-container {
+    color: white;
+    margin-top: 0vh;
+    margin-bottom: 0vh;
+    margin-left: 2vw;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+}
+
+.label-span {
+    float: left;
+    text-align: left;
+    font-size: 1.25rem;
+}
+
+.label-span:last-of-type {
+    padding-right: 0.5rem;
+}

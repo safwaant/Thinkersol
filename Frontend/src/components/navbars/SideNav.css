@@ -1,0 +1,35 @@
+.side-nav-img {
+    width: 4rem;
+    height:auto;
+}
+
+.navWrapper {
+    width: 10rem;
+    height: 100%;
+    
+    justify-content: space-between;
+    background-color: #C4C4C4;
+
+    position: fixed;
+    left: 0;
+
+    display: flex;
+    justify-content: center;
+    align-items: top;
+}
+
+ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    margin-top: 3rem;
+    text-align: center;
+}
+
+.navLink {
+    text-decoration: none;
+    color: black;
+}

@@ -1,0 +1,33 @@
+html {
+    /* This is the size for a single REM. */
+    font-size: 16px;
+}
+
+.pageWrapper {
+    position: relative;
+}
+
+.pageRow {
+    /* Display. */
+    display: inline-block;
+
+    width: 100%;
+}
+
+#headerWrapper {
+    /* Display. */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.headerItem {
+    /* Misc. */
+    float: left;
+}
+
+.headerItem:last-of-type {
+    /* Margins. */
+    margin-left: auto;
+}

@@ -1,0 +1,11 @@
+.create-group-popover-content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+
+    margin: 0.6rem;
+}
+
+.create-group-popover-text-entry {
+    margin-bottom: 0.6rem;
+}

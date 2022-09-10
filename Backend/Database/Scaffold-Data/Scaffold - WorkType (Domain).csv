@@ -1,0 +1,5 @@
+id (PK),name
+F,Full-time
+P,Part-time
+I,Internship
+J,Job shadow

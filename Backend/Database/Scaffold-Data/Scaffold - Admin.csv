@@ -1,0 +1,3 @@
+admin_username (PK),first_name,last_name,school_id(FK),is_super_admin
+hoff@ahs.org,John ,Hoff,Tc8fe,T
+clark@ahs.org,Steve,Clark,Tc8fe,T

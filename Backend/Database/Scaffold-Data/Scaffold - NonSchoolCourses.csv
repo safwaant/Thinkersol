@@ -1,0 +1,5 @@
+non_school_course_id(PK),course_name (u),inst_name,program_type_name (FK)
+431cfbae-0be7-11ed-861d-0242ac120002,English 101,SHIELD College,Running Start
+495b5984-0be7-11ed-861d-0242ac120002,Cryptography,SHIELD College,Running Start
+4ccc579e-0be7-11ed-861d-0242ac120002,Paleontology ,SHIELD College,Running Start
+4f6dedf0-0be7-11ed-861d-0242ac120002,Intelligence Operations,SHIELD College,Running Start

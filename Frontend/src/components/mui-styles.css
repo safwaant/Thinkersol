@@ -1,0 +1,40 @@
+/* Basic properties applied to all buttons. */
+.btn {
+    /* Text styling. */
+    font-size: 1rem;
+    text-transform: none;
+
+    /* Misc. styling. */
+    border-radius: 0.5rem;
+    box-shadow: none;
+
+    /* Default color scheme. */
+    background-color: #40CA4E;
+    color: white;
+
+    /* This centers the text within the button. */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.btn:hover {
+    /* Default color scheme. */
+    background-color: #1e6e26;
+}
+
+/* Specfic styling for the manage groups button. */
+.manage-groups-btn {
+    font-size: large;
+}
+
+/* Specfic styling for the run report button. */
+.run-report-btn {
+    font-size: large;
+    margin: 0.5rem;
+}
+
+/* Specfic styling for the add to group button. */
+.add-to-group-btn {
+    margin-bottom: 0.5rem;
+}

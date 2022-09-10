@@ -1,0 +1,5 @@
+counselor_username (PK),first_name,last_name,title,school_id(FK)
+bob@ahs.org,Bob,Joe,counselor,Tc8fe
+harry@ahs.org,Harry ,Smith,counselor,Tc8fe
+wade@ahs.org,Wade ,Wilson,career advisor,Tc8fe
+fury@ahs.org,Nick ,Fury,counselor,Tc8fe

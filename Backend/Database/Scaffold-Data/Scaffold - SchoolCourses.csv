@@ -1,0 +1,27 @@
+course_id(PK),course_name (u),credits,subject(FK),school_id(FK),min_grade_offered(FK),max_grade_offered(FK)
+A1,English 11,1,English,Tc8fe,11,11
+A2,AP CS A,1,CTE,Tc8fe,11,12
+A3,Calculus 1,1,Math,Tc8fe,11,12
+A4,Biology,1,Science,Tc8fe,9,12
+A5,U.S. History,1,History,Tc8fe,10,12
+A6,Team Sports,1,Physical Education,Tc8fe,9,12
+A7,Health,1,Elective,Tc8fe,9,12
+A8,Statistics,1,Math,Tc8fe,9,12
+A9,English 9 ,1,English,Tc8fe,9,12
+A10,Pre-calculus,1,Math,Tc8fe,9,12
+A11,Spanish,1,Foreign Language,Tc8fe,9,12
+A12,European History,1,History,Tc8fe,10,12
+A13,Sports Medicine,1,Elective,Tc8fe,9,12
+A14,Woodshop,1,CTE,Tc8fe,9,12
+A15,AP Language,1,English,Tc8fe,11,12
+A16,Algebra 2,1,Math,Tc8fe,9,12
+A17,Chemistry,1,Science,Tc8fe,9,12
+A18,World History,1,History,Tc8fe,9,12
+A19,Weightlifting,1,Elective,Tc8fe,9,12
+A20,Art,1,Elective,Tc8fe,9,12
+A21,Calculus 2,1,Math,Tc8fe,11,12
+A22,French,1,Foreign Language,Tc8fe,9,12
+A23,Band,1,Elective,Tc8fe,9,12
+A24,Cooking,1,CTE,Tc8fe,9,12
+A25,Computer Science,1,Elective,Tc8fe,10,12
+A26,Algebra 1,1,Math,Tc8fe,9,12

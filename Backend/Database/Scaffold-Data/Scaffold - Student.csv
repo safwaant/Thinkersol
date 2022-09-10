@@ -1,0 +1,8 @@
+student_id (PK),email,grade,first_name,last_name,birth_date,num_plans,cur_school_id,future_school_id
+8766,staher@ahs.edu,11,Safwaan,Taher,5-18-2006,2,Tc8fe,
+8763,srogers@ams.edu,8,Steve,Rogers,4-22-2009,1,Zur6b,Tc8fe
+8761,,10,Clint,Barton,9-8-2007,1,Tc8fe,
+8760,,11,Natasha,Romanoff,11-14-2006,1,Tc8fe,
+8762,bbanner@ahs.edu,12,Bruce ,Banner,11-6-2005,1,Tc8fe,
+8764,todinson@ahs.edu,9,Thor,Odinson,12-2-2008,1,Tc8fe,
+8765,tstartk@ahs.edu,10,Tony,Stark,2-3-2007,1,Tc8fe,

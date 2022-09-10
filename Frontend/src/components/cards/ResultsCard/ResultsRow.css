@@ -1,0 +1,30 @@
+.resultWrapper {
+    width: 99%;
+    margin: 0 auto;
+    padding-top: 1vh;
+    padding-bottom: 2vh;
+    height: 2vh;
+    border-bottom: 0.1vh solid black;
+}
+
+.resultRowItem {
+    font-size: 1rem;
+    float: left;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.resultRowItem:hover {
+    background-color: white;
+    overflow-wrap: break-word;
+}
+
+.resultRowItem:first-of-type {
+    margin-left: 1vw;
+}
+
+.resultRowItem:last-of-type {
+    float: right;
+    text-align: right;
+    margin-right: 1vw;
+}

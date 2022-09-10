@@ -1,0 +1,9 @@
+ID (PK/FK),group_id(PK/FK)
+1,defaultgroup1
+2,defaultgroup1
+3,defaultgroup2
+4,defaultgroup3
+5,defaultgroup4
+6,defaultgroup5
+7,defaultgroup6
+8,defaultgroup7

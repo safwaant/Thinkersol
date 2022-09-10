@@ -1,0 +1,8 @@
+group_id (PK/FK),student_id (PK/FK)
+defaultgroup1,8766
+defaultgroup2,8763
+defaultgroup3,8761
+defaultgroup4,8760
+defaultgroup5,8762
+defaultgroup6,8764
+defaultgroup7,8765

@@ -1,0 +1,10 @@
+ resume_id (PK),student_id(FK),skills_1,skills_2,skills_3
+1,8766,C++,Java,Python
+2,8766,Leadership,C++,AWS
+3,8766,Python,Java,Firebase
+4,8763,Problem Solving,Excel,Teamwork
+5,8761,Word,SEO,Archery
+6,8760,Filterable ,Memorization ,Creative
+7,8762,Communication ,Great Hand Dexterity ,Enthusiasm 
+8,8764,Mental strength,Humor,Coaching
+9,8765,Physical Strength,Good with Tools,Inventive

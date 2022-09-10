@@ -1,0 +1,8 @@
+parent_username (PK),first_name,last_name,school_id(FK)
+jdoe@rhs.org,John,Doe,Tc8fe
+hstark@ahs.org,Howard,Stark,Tc8fe
+oodinson@ahs.org,Odin,Odinson,Tc8fe
+jrogers@ahs.org,Jim,Rogers,Zur6b
+sbanner@ahs.org,Steve,Banner,Tc8fe
+tbarton@ahs.org,Tim,Barton,Tc8fe
+aromanoff@ahs.org,Alexi,Romanoff,Tc8fe

@@ -1,0 +1,23 @@
+.sideNavAndPageContentWrapper {
+    /* Display */
+    display: flex;
+
+    /* Margins */
+    margin-top: 6vh;
+}
+
+.pageContentParent {
+    /* Display */
+    display: flex;
+    justify-content: center;
+
+    /* Margins */
+    margin-left: 11vw;
+
+    width: 100%;
+}
+
+.pageContent {
+    /* Dimensions */
+    width: 80%;
+}

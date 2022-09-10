@@ -1,0 +1,8 @@
+parent_username (PK/FK),student_id(PK/FK)
+jdoe@rhs.org,8766
+hstark@ahs.org,8765
+oodinson@ahs.org,8764
+jrogers@ahs.org,8763
+sbanner@ahs.org,8762
+tbarton@ahs.org,8761
+aromanoff@ahs.org,8760

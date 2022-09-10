@@ -1,0 +1,25 @@
+group_id (PK),group_name
+defaultgroup1,Computer and Mathematical Occupations
+defaultgroup2,Architecture and Engineering Occupations
+defaultgroup3,Legal Occupations
+defaultgroup4,"Arts, Design, Entertainment, Sports, and Media Occupations"
+defaultgroup5,Healthcare Practicioners and Technical Occupations
+defaultgroup6,Sales and Related Occupations
+defaultgroup7,Construction and Extraction Occupations
+defaultgroup8,Management Occupations
+defaultgroup9,Business and Financial Operations Occupations
+defaultgroup10,"Life, Physical, and Social Science Occupations"
+defaultgroup11,Community and Social Service Occupations
+defaultgroup12,Legal Occupations
+defaultgroup13,Educational Instruction and Library Occupations
+defaultgroup14,Healthcare Support Occupations
+defaultgroup15,Protective Service Occupations
+defaultgroup16,Food Preparation and Serving Related Occupations
+defaultgroup17,Building and Grounds Cleaning and Maintenance Occupations
+defaultgroup18,Personal Care and Service Occupations
+defaultgroup19,Office and Administrative Support Occupations
+defaultgroup20,"Farming, Fishing, and Forestry Occupations"
+defaultgroup21,"Installation, Maintenance, and Repair Occupations"
+defaultgroup22,Production Occupations
+defaultgroup23,Transportation and Material Moving Occupations
+defaultgroup24,NonSchool Students

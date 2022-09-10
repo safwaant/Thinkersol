@@ -1,0 +1,17 @@
+ID (PK),resume_id (FK),plan_id (FK),name,description,date_from,date_to,type_id (FK)
+1,1,1,Karate,karate black belt,6/28/2022,,A
+2,1,1,Robotics,robotics team leader,5/28/2022,6/26/2022,C
+3,2,2,Vet Clinic,local hospital vet clinic,3/24/2022,,V
+4,2,2,Baseball team,high school team captain,1/22/2022,,A
+5,3,3,Karate,karate brown belt,7/14/2021,,A
+6,3,3,Key Club,tutored elementary school,07/04/2021,8/22/2021,C
+7,4,4,Soccer Team,Soccer team captain,4/21/2022,,A
+8,4,4,Kid's Hospital,Local kids hospital volunteer,2/12/2022,,V
+9,5,5,Football team,JV Football team,8/7/21,,A
+10,5,5,Chess,Chess club VP,6/4/22,,C
+11,6,6,Track,Varsity track team,3/5/20,,A
+12,6,6,Food bank,Food bank volunteer,9/8/22,,V
+13,7,7,Cross Country,JV Cross country,7/6/22,,A
+14,7,7,DECA,DECA chapter member,6/8/21,,C
+15,8,8,Swim,Swim co-captain,4/5/22,,A
+16,8,8,Leadership,Leadership club member,8/13/22,,C
